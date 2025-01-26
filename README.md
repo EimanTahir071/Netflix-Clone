@@ -43,8 +43,4 @@ npm run start
 
 
 
--   06:18:55 - Testing Our App and Small Fixes
--   06:24:40 - Detailed Deployment Guide
--   06:48:53 - Oops! I almost forgot this... bye
 
-### I'll see you in the next one! 🚀
